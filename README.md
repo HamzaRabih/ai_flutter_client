@@ -9,11 +9,19 @@
 
 ## 📸 Aperçu de l'application
 
-> ⚠️ Remplace les images suivantes par des captures d'écran de ton app :
-
 | Écran de chat                     | Génération d'image                | 
 |-----------------------------------|-----------------------------------|
 | <img src="Capture/Capture_1.png"> | <img src="Capture/Capture_2.png"> |
+
+---
+
+## 🧠 Fonctionnalités
+
+| Fonction                       | Description | 
+|--------------------------------|---------------------|
+| 💬 Chat texte | Pose une question en texte libre, l’IA répond. | 
+| 💬 🖼️ Génération d’image | Génère une image à partir d’un prompt textuel. | 
+| 📷 Question sur image | Pose une question à partir d’une image uploadée. | 
 
 ---
 
@@ -68,12 +76,3 @@ Lance sur un simulateur ou un appareil :
 flutter run
 ```
 Assure-toi que l'adresse IP du backend dans api_service.dart (_baseUrl) est correcte et accessible depuis ton appareil.
-
-### 🧠 Fonctionnalités
-
-| Fonction                       | Description | 
-|--------------------------------|---------------------|
-| 💬 Chat texte | Pose une question en texte libre, l’IA répond. | 
-| 💬 🖼️ Génération d’image | Génère une image à partir d’un prompt textuel. | 
-| 📷 Question sur image | Pose une question à partir d’une image uploadée. | 
-
