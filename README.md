@@ -11,9 +11,9 @@
 
 > ⚠️ Remplace les images suivantes par des captures d'écran de ton app :
 
-| Écran de chat | Génération d'image | Upload d'image |
-|---------------|---------------------|----------------|
-| ![chat_screen](screenshots/chat_screen.png) | ![generate_image](screenshots/generate_image.png) | ![upload_image](screenshots/upload_image.png) |
+| Écran de chat                     | Génération d'image                | 
+|-----------------------------------|-----------------------------------|
+| <img src="Capture/Capture_1.png"> | <img src="Capture/Capture_2.png"> |
 
 ---
 
